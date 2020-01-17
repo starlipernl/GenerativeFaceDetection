@@ -6,4 +6,4 @@ Gaussian, Mixture of Gaussians, Factor Analyzer, and Student t model.
 Expectation maximization code written from scratch. See more details in 
 the paper. 
 
-[Checkout the report!](Starliper_Project01_report)
+[Checkout the report!](Starliper_Project01_report.pdf)
